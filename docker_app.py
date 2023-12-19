@@ -15,7 +15,10 @@ with open(r"dict_vectorizer.pkl", "rb") as file:
 
 
 def main():
-    st.title("Car Price Prediction App")
+    
+    # Add a tab name
+    st.set_page_config(page_title="House Price Prediction App", layout="wide")
+    st.title("House Price Prediction App")
 
     # Create inputs for the user to fill in the details
 

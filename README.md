@@ -4,6 +4,11 @@ Hello everyone, this is my Capstone Project 1 for the for the 2023 cohort of the
 
 The dataset can be found [here](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data).
 
+The final app can be tried here: https://streamlit-house-prices-jvgkqtvdxq-ey.a.run.app/
+
+Here is a screenshot:
+![Alt text](readme_images/preview.png)
+
 ### Exploratory data analysis
 
 The EDA can be found inside the Jupyter Notebook called `eda.ipynb` in the root directory of the project.
