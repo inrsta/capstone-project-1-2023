@@ -1,8 +1,26 @@
 ## Capstone project 1 for Machine Learning Zoomcamp
 
-Hello everyone, this is my Capstone Project 1 for the for the 2023 cohort of the course [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp). This project will aim to train a machine learning model to predict prices of houses in Australia.
+Hello everyone, this is my Capstone Project 1 for the for the 2023 cohort of the course [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp). 
+
+This project will aim to train a machine learning model to predict prices of houses in a synthetic dataset.
 
 The dataset can be found [here](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data).
+
+This dataset provides a realistic yet simplified platform for developing and testing a machine learning model aimed at predicting house prices.
+
+Why This Dataset?
+
+1. Realistic Scenario with Managed Complexity:
+The synthetic nature of this dataset mirrors real-world scenarios without the complications of missing or inconsistent data. This feature is particularly advantageous for focusing on model development and methodology, making the dataset ideal for educational and training purposes.
+
+2. Rich and Diverse Features:
+Containing key attributes like 'SquareFeet', 'Bedrooms', 'Bathrooms', 'Neighborhood', 'YearBuilt', and 'Price', the dataset encompasses a range of factors influencing real estate pricing. This diversity allows us to delve into various data analysis, preprocessing, and feature engineering techniques.
+
+3. Comprehensive Analytical Opportunities:
+The blend of numerical and categorical data in the dataset provides a broad scope for applying different preprocessing strategies.
+
+4. Benchmarking and Model Evaluation:
+Housing price prediction is a well-established problem in machine learning, offering a solid basis for benchmarking a variety of algorithms. This project serves as an excellent platform for comparing the effectiveness of different models, tuning their hyperparameters, and exploring the intricacies of machine learning models in a practical context.
 
 The final app can be tried here: https://streamlit-house-prices-jvgkqtvdxq-ey.a.run.app/
 
