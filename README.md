@@ -22,7 +22,7 @@ The blend of numerical and categorical data in the dataset provides a broad scop
 4. Benchmarking and Model Evaluation:
 Housing price prediction is a well-established problem in machine learning, offering a solid basis for benchmarking a variety of algorithms. This project serves as an excellent platform for comparing the effectiveness of different models, tuning their hyperparameters, and exploring the intricacies of machine learning models in a practical context.
 
-The final app can be tried here: https://streamlit-house-prices-jvgkqtvdxq-ey.a.run.app/
+The final app can be tried here: https://streamlist-car-prices-jvgkqtvdxq-ey.a.run.app
 
 Here is a screenshot:
 ![Alt text](readme_images/preview.png)
@@ -40,6 +40,11 @@ After making sure the model performs in a satisfactory manner, I save the model 
 The notebook can also be converted to a Python file to be run like a module using the command:
 ```bash
 jupyter nbconvert --to script model_training.ipynb
+```
+
+To run the model training, please run the following command:
+```bash
+python model_training.py
 ```
 ### Running the app
 
