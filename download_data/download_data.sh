@@ -14,5 +14,5 @@ kaggle datasets download -d  muhammadbinimran/housing-price-prediction-data -p "
 
 # Change to the data directory and unzip the dataset
 cd "$DATA_DIR"
-unzip '*.zip'
+unzip -o '*.zip'
 rm *.zip

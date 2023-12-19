@@ -6,6 +6,12 @@ This project will aim to train a machine learning model to predict prices of hou
 
 The dataset can be found [here](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data).
 
+To download the dataset, please run the following command:
+```bash
+make download-data
+```
+You need to have `kaggle` installed on your machine and also a kaggle account. You can get started [here](https://www.kaggle.com/docs/api).
+
 This dataset provides a realistic yet simplified platform for developing and testing a machine learning model aimed at predicting house prices.
 
 Why This Dataset?
